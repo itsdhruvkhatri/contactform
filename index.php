@@ -1,3 +1,4 @@
+<?php
 <style>
 p{padding:0;margin:0;font-family:"Times New Roman", serif;
 letter-spacing: 1px;background-color:#f1f1f1;margin-bottom:5px;margin-top:5px;}
@@ -49,4 +50,4 @@ No:<input type="checkbox" value="No" name="call"><br />
 <input type="submit" value="Send"><input type="reset" value="Clear">
 </fieldset>
 </form>
-
+?>
